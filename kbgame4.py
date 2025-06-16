@@ -117,3 +117,6 @@ while True:
     if isCollision(player, food):
         food.setposition(random.randint(-290, 290), random.randint(-290, 290))
         food.right(random.randint(0,360))
+
+#Part 7 
+#More cabbage, more!
